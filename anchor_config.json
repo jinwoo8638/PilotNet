@@ -1,0 +1,11 @@
+{
+  "anchor_lines": [
+    180,
+    210,
+    240,
+    270
+  ],
+  "show_anchor_lines": true,
+  "image_height": 480,
+  "format": "pixels_from_top"
+}

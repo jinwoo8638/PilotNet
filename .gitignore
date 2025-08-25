@@ -1,0 +1,6 @@
+﻿pilotnet_env/
+*.pt
+*.pth
+*.dll
+__pycache__/
+*.pyc
